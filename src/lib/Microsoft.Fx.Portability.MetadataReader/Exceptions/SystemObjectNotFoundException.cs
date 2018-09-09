@@ -9,7 +9,7 @@ using System.Globalization;
 namespace Microsoft.Fx.Portability.Analyzer.Exceptions
 {
     /// <summary>
-    /// Exception thrown when assembly containing <see cref="System.Object"/>
+    /// Exception thrown when assembly containing <see cref="object"/>
     /// cannot be found.
     /// </summary>
     public class SystemObjectNotFoundException : PortabilityAnalyzerException
